@@ -1,5 +1,11 @@
 # CS613-NLP Team-1 Telugu
 
+## Introduction
+
+This repository contains the source code and other necessary files that we (me and my friends) used to build a LLM from scratch, during this we crawled and scraped the data from web and then built a LLM model during our coursework of Natural Language Processing course at IITGN.
+
+This README.md file contains the process that we followed and the results that we got.
+
 ## Team Members
 The individual contributions as in the sources scraped and crawled by each team member is visible in the [excel sheet](https://docs.google.com/spreadsheets/d/1Kr59i-8Gyhi3ehN_hLVCPdBcms7L07xNUUFsTW3uFDk/edit?usp=sharing). Apart from that the contributions include:
 1. **Ruchit Jagodara (22110102)** - Figured out using `BeautifulSoup` for crawling and scraping. Assisted in compiling the pipelined code for DeDuplication using MinHashLSH, helped in training the LLM and calculated the performance of the model.
