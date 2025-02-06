@@ -2,10 +2,10 @@
 
 ## Team Members
 The individual contributions as in the sources scraped and crawled by each team member is visible in the [excel sheet](https://docs.google.com/spreadsheets/d/1Kr59i-8Gyhi3ehN_hLVCPdBcms7L07xNUUFsTW3uFDk/edit?usp=sharing). Apart from that the contributions include:
-1. **Bhavik Patel (22110047)** - Handling of server files and organising the entire codebase into main directories and sub-directories across local machines and the server. Effort towards compiling the enitre data onto the server. Finally assisted in entering data in the sheet.
-2. **Guntas Singh Saran (22110089)** - Writing and summarising this `README.md` file. Assisted in compiling the pipelined code for DeDuplication using MinHashLSH. Made codes for uploading the datasets onto [HuggingFace](https://huggingface.co/guntas-13). Maintained the GitHub Repository.
-3. **Hitesh Kumar (22110098)** - Compiling of all the Pre-Existing Corpus and Loading these datasets from `.parquet` files to `.csv` to finally `.txt` files. Effort towards compiling the enitre data onto the server. Finally assisted in entering data in the sheet.
-4. **Ruchit Jagodara (22110102)** - Figured out using `BeautifulSoup` for crawling and scraping. Assisted in compiling the pipelined code for DeDuplication using MinHashLSH.
+1. **Ruchit Jagodara (22110102)** - Figured out using `BeautifulSoup` for crawling and scraping. Assisted in compiling the pipelined code for DeDuplication using MinHashLSH, helped in training the LLM and calculated the performance of the model.
+2. **Bhavik Patel (22110047)** - Handling of server files and organising the entire codebase into main directories and sub-directories across local machines and the server. Effort towards compiling the enitre data onto the server. Finally assisted in entering data in the sheet.
+3. **Guntas Singh Saran (22110089)** - Writing and summarising this `README.md` file. Assisted in compiling the pipelined code for DeDuplication using MinHashLSH. Made codes for uploading the datasets onto [HuggingFace](https://huggingface.co/guntas-13). Maintained the GitHub Repository.
+4. **Hitesh Kumar (22110098)** - Compiling of all the Pre-Existing Corpus and Loading these datasets from `.parquet` files to `.csv` to finally `.txt` files. Effort towards compiling the enitre data onto the server. Finally assisted in entering data in the sheet. 
 5. **Jinil Patel (22110184)** - Assisted in the writing the Data PreProcessing codes and compilation of the BadWords. Finally assisted in entering data in the sheet.
 
 ## [Telugu Corpus Sheet](https://docs.google.com/spreadsheets/d/1Kr59i-8Gyhi3ehN_hLVCPdBcms7L07xNUUFsTW3uFDk/edit?gid=1042635267#gid=1042635267)
