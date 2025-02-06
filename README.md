@@ -1,4 +1,4 @@
-# CS613-NLP Team-1 Telugu
+# LLM for Telugu from scratch
 
 ## Introduction
 
