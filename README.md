@@ -1,4 +1,4 @@
-# LLM for Telugu from scratch
+# LLM for Telugu
 
 ## Introduction
 
